@@ -1,0 +1,4 @@
+.pages{display: inline;
+    position: absolute;
+    margin-left: 45%;}
+.pages ul li{float: left; width: 20px;}
